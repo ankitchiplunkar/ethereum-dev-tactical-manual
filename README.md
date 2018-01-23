@@ -120,3 +120,12 @@ Here's a collection of things.
 * One concept per line of code.
 * Don't be clever.
 
+
+### Security
+
+The software we work on is used in financial applications.  This makes us targets.
+The following minimum security practices should be used.
+
+- Use a password manager with strong passwords.
+- Enable Two Factor Authentication (avoid use of SMS in 2FA)
+- Setup auto-signing of your git commits: https://stackoverflow.com/questions/10161198/is-there-a-way-to-autosign-commits-in-git-with-a-gpg-key
