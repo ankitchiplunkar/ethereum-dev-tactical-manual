@@ -133,3 +133,9 @@ The following minimum security practices should be used.
 - No password sharing (even for family, close friends, etc)
 - Auto-lock machine after a short period (5 minutes) of inactivity
 - No shared machine usage (family computer, etc)
+- Use pre-boot encryption
+- Recommend using a VPN anytime you are on an untrusted network ([ProtonVPN](https://protonvpn.com/) is a good VPN provider)
+- Never connect to untrusted devices (USB, etc).  
+  - This means any device that you cannot personally account for it's origins.  
+  - This means you cannot plug someone else's USB drive into your machine to transfer files.
+  - This means you cannot plug someone else's phone into your computer to charge it.
