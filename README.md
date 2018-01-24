@@ -127,5 +127,9 @@ The software we work on is used in financial applications.  This makes us target
 The following minimum security practices should be used.
 
 - Use a password manager with strong passwords.
+- Don't use browser based password storage or autofilling of passwords.
 - Enable Two Factor Authentication (avoid use of SMS in 2FA)
 - Setup auto-signing of your git commits: https://stackoverflow.com/questions/10161198/is-there-a-way-to-autosign-commits-in-git-with-a-gpg-key
+- No password sharing (even for family, close friends, etc)
+- Auto-lock machine after a short period (5 minutes) of inactivity
+- No shared machine usage (family computer, etc)
